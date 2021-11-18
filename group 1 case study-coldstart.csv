@@ -1,0 +1,70 @@
+Customerid,Name,Productid,PRODUCTS,Company,Ratebefore,Customer_Status,YEAR,REVIEW
+101,Subiksha,12.341,Ear Pods,Noise,3000,new,2012,Good
+102,Hariharan,23.567,Clock,Fastrack,2500,old,2015,Bad
+103,VedhaHarsath,67.899,Bagpack,Skybags,2000,old,2012,Good
+104,GokulRaj,14.456,Slides,Puma,2000,unknown,2018,Worst
+105,RajaRajendran,78.345,Pillow,Sleepwell,15000,old,2002,Best
+106,VedhaHarsath,78.345,Bed,Sleepwell,50000,new,2000,Good
+107,Mahesh,23.567,Bed Spread,Amazon_org,,old,2005,Worst
+108,GokulRaj,90.233,Socks,Nike,400,new,2014,Best
+109,Subiksha,36.567,Mobile Charger,Samsung,400,unknown,2007,Best
+110,Kala,89.678,Addapter,Samsung,450,old,2007,Good
+111,Dharshan,34.479,Desk,Woodpecker ,2400,new,2014,Worst
+112,Veeresh,66.891,Vaccumcleaner,Eureka,15000,new,2020,Good
+113,Dharshan,36.567,Calcultor,Casio,1800,new,2019,Best
+114,Subiksha,22.345,Plates,Parryware,4000,old,2018,Worst
+115,Mahesh,66.678,Modem,Ausis,3500,old,2019,Good
+116,SaiJayanth,70.167,Acremote,Voltas,1000,old,2009,Good
+117,Bharani,71.666,Laptop,Lenovo,45000,old,2009,Good
+118,Vaithegi,72.888,Telephone,Bsnl,1500,old,2010,Good
+119,Manimaran,67.167,Cooker,Preethi,2000,old,2021,Best
+120,Dharanesh,11.111,Idilli Cooker,Preethi,2500,old,2021,Good
+121,Bhupesh,44.123,Notebooks,Camlin,640,old,2020,Worst
+122,Venkat,45.456,Dal,India gates,300,old,2020,Best
+123,Venkatesh,46.789,Gramdal,India gates,350,old,2018,Best
+124,Balu,47.89,Centre table,Iykaa,12000,new,2019,Best
+125,Jeni,46.89,Solar panel,Evolve,30000,new,2019,Worst
+126,Setephen,44.89,Wrist band,Fastrack,2500,new,2017,Worst
+127,Mahima,33.789,Jack,Kyre,4000,new,2017,Good
+128,Tulasi,33.456,Jack Hammer,Hardware,5000,new,2016,Best
+129,Lakshmi,90.123,Screw driver,Hardware,100,old,2019,Good
+130,Jai,90.234,Winch,Hardware,260,old,2018,Good
+131,Brito,90.345,Toy car,Madshades,500,old,2009,Good
+132,Densing,90.456,Toy truck,Madshades,,unknown,2010,Good
+133,Kalai,90.567,Toy plane,Madshades,2300,old,2010,Good
+134,Farina,90.678,Scooter,Horn,3000,new,2010,Worst
+135,Venpa,90.89,tyres,Kyre,3000,new,2009,Worst
+136,Umma,91.123,Pump,Sugunamotors,4000,new,2009,Worst
+137,Krishnan,91.234,Carboard box,Hardware,200,new,2006,Best
+138,Usha,91.345,Toy van,Madshades,2000,old,2006,Best
+139,Krishna,91.456,Pen,Camlin,60,new,2006,Best
+140,Anupama,91.567,Pencil,Camlin,50,old,2010,Good
+200,Dheeraj,91.678,Exam pad,Camlin,2,new,2008,Good
+190,Joy,91.89,Lunch box,Parryware,2,old,2008,Good
+191,Sebastian,56.123,Snacks box,Parryware,10,old,2008,Good
+192,Vivian,56.234,Greeting card,decors,2,unknown,2008,Good
+193,Varun,56.345,Television,Samsung,12000,unknown,2021,Good
+194,Ajay,56.456,Rucksack,Skybags,1000,new,2021,Good
+195,Sadhan,56.567,Trolley,Skybags,3000,new,2021,Worst
+196,Madhan,56.678,Water bottle,Parryware,100,new,2021,Worst
+197,Harsath,56.789,Blanket,Iykaa,200,new,2020,Worst
+198,Sneha,57.123,Bush set,Hardware,300,new,2020,Worst
+199,Varshitha,57.234,Coffe table,Iykaa,3000,new,2019,Best
+210,kamal,57.345,Computer Table,LG,2000,new,2019,Good
+780,Kamali,57.456,Mats,Iykaa,200,new,2019,Good
+781,Shafeen,57.678,Mattress,Iykaa,3000,old,2009,Good
+782,Vijay,57.789,pillow cover,Iykaa,400,old,2009,Good
+783,Sujeeth,58.123,Fase wash,Nivea,150,old,2009,Worst
+784,Selvam,58.234,Shoe polish,Bata,,old,2008,Worst
+785,Selvi,58.345,Shoe shinner,Bata,250,old,2007,Worst
+789,Akilan,67.123,Flower vase,decors,300,old,2007,Worst
+450,Surya,67.234,Grinder,Preethi,3000,old,2007,Good
+451,Tamil,67.345,Nail polish,Nykaa,120,old,2007,Good
+444,Nirmal,67.456,Nail remover,Nykaa,200,old,2015,Good
+433,Yathin,67.567,Eye liner,Nykaa,300,new,2015,Good
+466,Hari,67.678,Clutch,Nykaa,300,new,2015,Good
+477,Yogi,67.789,Latches,Hardware,340,new,2015,Good
+488,Raju,29.123,Indextion stove,Preethi,3000,new,2015,Good
+499,Raji,29.234,Mixer,Preethi,,new,2016,Best
+490,Peter,29.344,Oven,Faber,100,new,2016,Best
+495,Harvey,29.567,Washing machine,Samsung,1000,new,2015,Best
